@@ -18,8 +18,8 @@ def clear():
 clear()
 print(banner())
 
-print(f'Мы закрыты!, чтобы узнать больше о проблеме, напишите нам в Telegram: {GREEN}FELIX4{RESET}')
-print(f'Для большего кол-во данных воспользуйтесь нашим Telegram Ботом: {GREEN}https://t.me/No_BlackMail_bot{RESET}\n')
-
+print(f'{RESET}Мы закрыты!, чтобы узнать больше о проблеме, напишите нам в {GREEN}Telegram: FELIX4{RESET}')
+print(f'Для большего кол-во данных воспользуйтесь нашим {GREEN}Telegram Ботом: https://t.me/No_BlackMail_bot{RESET}\n')
+print(f'{RED}______________________________{RESET}')
 print(f'{RED}+{GREEN} Пробив по номеру\n{RED}+{GREEN} Номер по ФИО\n{RED}+{GREEN} Объявления/Авито\n{RED}+{GREEN} Пробив авто/UA\n{RED}+{GREEN} Пробив авто/RU (Фото)\n{RED}+{GREEN} Поиск по ФИО/RU\n{RED}+{GREEN} Поиск по VK{RESET}')
 print('\nCпасибо что вы с нами!!')
